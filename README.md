@@ -11,8 +11,11 @@ Instalar el gestor de base de datos postgresql
 https://www.postgresql.org/download/
 
 El puerto por defecto es: 5432
+
 Nombre de usuario administrador: postgres
+
 Host: “localhos” o “127.0.0.1”
+
 Nombre de base de datos por defecto: “postgres”
 
 Crear la base de datos
