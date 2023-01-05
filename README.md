@@ -6,6 +6,10 @@ Esta es la version del backend con nest para la aplicacion "Flights"
 
 ## Pre-requisitos
 
+Tener instalado Node.js
+
+https://nodejs.org/en/download/
+
 Instalar el gestor de base de datos postgresql
 
 https://www.postgresql.org/download/
